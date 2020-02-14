@@ -29,7 +29,7 @@ yarn run build (production environment)
 
 ### Introduction 
 
-This webpack was basically made to supply the need of multiple entries like sass and pug, and generate in separate files.
+This webpack was basically made to supply the need of multiple entries like sass and js, and generate in separate files.
 
 ### BrowserSync
   This webpack has BrowserSync it performs auto reloading after any changes to the file without the need for any software such as `Fiddler` to make this change in the production / development environment. 
